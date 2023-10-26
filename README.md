@@ -1,4 +1,4 @@
 # Demo-repo
-This is my first repository 
+Learning HTML5 and CSS3
 <br>
 Author - Mamta (UI/UX designer)
